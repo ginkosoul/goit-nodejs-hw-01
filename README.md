@@ -18,7 +18,8 @@ node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-2
 node index.js --action remove --id qdggE76Jtbfd9eWJHrssH
 ```
 
-![Screenshot](https://i.ibb.co/Vq1CR1f/screenshot.png)
+![Screenshot](./assets/screenshot.png)
+(https://ibb.co/fxgNfgj)
 
 ### Step 1
 
